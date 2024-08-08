@@ -1,0 +1,1435 @@
+[
+    {
+        "model": "problems.problem",
+        "pk": 21,
+        "fields": {
+            "title": "Find Minimum in Rotated Sorted Array",
+            "description": "Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. Find the minimum element.",
+            "category": "Binary Search",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 22,
+        "fields": {
+            "title": "Search in Rotated Sorted Array",
+            "description": "Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. You are given a target value to search. If found in the array, return its index, otherwise return -1.",
+            "category": "Binary Search",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 23,
+        "fields": {
+            "title": "Time Based Key-Value Store",
+            "description": "Design a time-based key-value data structure that can store multiple values for the same key at different time stamps and retrieve the key's value at a certain timestamp.",
+            "category": "Binary Search",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/time-based-key-value-store/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 24,
+        "fields": {
+            "title": "Median of Two Sorted Arrays",
+            "description": "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.",
+            "category": "Binary Search",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 25,
+        "fields": {
+            "title": "Kth Largest Element in an Array",
+            "description": "Find the kth largest element in an unsorted array.",
+            "category": "Heap",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 26,
+        "fields": {
+            "title": "Last Stone Weight",
+            "description": "We have a collection of stones, each stone has a positive integer weight. Each turn, we choose the two heaviest stones and smash them together.",
+            "category": "Heap",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/last-stone-weight/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 27,
+        "fields": {
+            "title": "Task Scheduler",
+            "description": "Given a characters array tasks, representing the tasks a CPU needs to do, where each letter represents a different task. Tasks could be done in any order.",
+            "category": "Heap",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/task-scheduler/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 28,
+        "fields": {
+            "title": "Design Twitter",
+            "description": "Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed.",
+            "category": "Heap",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/design-twitter/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 29,
+        "fields": {
+            "title": "Find Median from Data Stream",
+            "description": "Design a data structure that supports the following two operations: addNum(int num) - Add a integer number from the data stream to the data structure. findMedian() - Return the median of all elements so far.",
+            "category": "Heap",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/find-median-from-data-stream/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 30,
+        "fields": {
+            "title": "Sliding Window Maximum",
+            "description": "You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right.",
+            "category": "Heap",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/sliding-window-maximum/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 31,
+        "fields": {
+            "title": "Climbing Stairs",
+            "description": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps.",
+            "category": "Dynamic Programming",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/climbing-stairs/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 32,
+        "fields": {
+            "title": "Coin Change",
+            "description": "You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/coin-change/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 33,
+        "fields": {
+            "title": "Longest Increasing Subsequence",
+            "description": "Given an integer array nums, return the length of the longest strictly increasing subsequence.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 34,
+        "fields": {
+            "title": "Longest Common Subsequence",
+            "description": "Given two strings text1 and text2, return the length of their longest common subsequence.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/longest-common-subsequence/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 35,
+        "fields": {
+            "title": "Word Break",
+            "description": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/word-break/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 36,
+        "fields": {
+            "title": "Combination Sum",
+            "description": "Given an array of distinct integers candidates and a target integer target, return a list of all unique combinations of candidates where the chosen numbers sum to target.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/combination-sum/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 37,
+        "fields": {
+            "title": "House Robber",
+            "description": "You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/house-robber/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 38,
+        "fields": {
+            "title": "House Robber II",
+            "description": "You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected. All houses at this place are arranged in a circle.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/house-robber-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 39,
+        "fields": {
+            "title": "Decode Ways",
+            "description": "A message containing letters from A-Z can be encoded into numbers using the following mapping: 'A' -> '1', 'B' -> '2', ... 'Z' -> '26'. To decode an encoded message, all the digits must be grouped then mapped back to letters.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/decode-ways/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 40,
+        "fields": {
+            "title": "Unique Paths",
+            "description": "A robot is located at the top-left corner of a m x n grid. The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/unique-paths/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 41,
+        "fields": {
+            "title": "Jump Game",
+            "description": "Given an array of non-negative integers nums, you are initially positioned at the first index of the array. Each element in the array represents your maximum jump length at that position. Determine if you are able to reach the last index.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/jump-game/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 42,
+        "fields": {
+            "title": "Merge Intervals",
+            "description": "Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input.",
+            "category": "Interval",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/merge-intervals/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 43,
+        "fields": {
+            "title": "Insert Interval",
+            "description": "You are given an array of non-overlapping intervals intervals where intervals[i] = [starti, endi] representing the start and the end of the ith interval and intervals are sorted in ascending order by starti. You are also given an interval newInterval = [start, end] that represents the start and end of another interval. Insert newInterval into intervals such that intervals is still sorted in ascending order by starti and intervals still do not have any overlapping intervals (merge overlapping intervals if necessary).",
+            "category": "Interval",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/insert-interval/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 44,
+        "fields": {
+            "title": "Non-overlapping Intervals",
+            "description": "Given an array of intervals intervals where intervals[i] = [starti, endi], return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.",
+            "category": "Interval",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/non-overlapping-intervals/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 45,
+        "fields": {
+            "title": "Meeting Rooms",
+            "description": "Given an array of meeting time intervals where intervals[i] = [starti, endi], determine if a person could attend all meetings.",
+            "category": "Interval",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/meeting-rooms/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 46,
+        "fields": {
+            "title": "Meeting Rooms II",
+            "description": "Given an array of meeting time intervals intervals where intervals[i] = [starti, endi], return the minimum number of conference rooms required.",
+            "category": "Interval",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/meeting-rooms-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 47,
+        "fields": {
+            "title": "Rotate Image",
+            "description": "You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).",
+            "category": "Matrix",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/rotate-image/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 48,
+        "fields": {
+            "title": "Spiral Matrix",
+            "description": "Given an m x n matrix, return all elements of the matrix in spiral order.",
+            "category": "Matrix",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/spiral-matrix/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 49,
+        "fields": {
+            "title": "Set Matrix Zeroes",
+            "description": "Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's, and return the matrix.",
+            "category": "Matrix",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/set-matrix-zeroes/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 50,
+        "fields": {
+            "title": "Word Search",
+            "description": "Given an m x n grid of characters board and a string word, return true if word exists in the grid.",
+            "category": "Matrix",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/word-search/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 51,
+        "fields": {
+            "title": "Number of Islands",
+            "description": "Given an m x n 2D binary grid grid which represents a map of '1's (land) and '0's (water), return the number of islands.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/number-of-islands/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 52,
+        "fields": {
+            "title": "Clone Graph",
+            "description": "Given a reference of a node in a connected undirected graph, return a deep copy (clone) of the graph.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/clone-graph/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 53,
+        "fields": {
+            "title": "Max Area of Island",
+            "description": "You are given an m x n binary matrix grid. An island is a group of 1's (representing land) connected 4-directionally (horizontal or vertical).",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/max-area-of-island/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 54,
+        "fields": {
+            "title": "Pacific Atlantic Water Flow",
+            "description": "There is an m x n rectangular island that borders both the Pacific Ocean and Atlantic Ocean. The Pacific Ocean touches the island's left and top edges, and the Atlantic Ocean touches the island's right and bottom edges.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 55,
+        "fields": {
+            "title": "Surrounded Regions",
+            "description": "Given an m x n matrix board containing 'X' and 'O', capture all regions surrounded by 'X'.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/surrounded-regions/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 56,
+        "fields": {
+            "title": "Course Schedule",
+            "description": "There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/course-schedule/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 57,
+        "fields": {
+            "title": "Course Schedule II",
+            "description": "There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/course-schedule-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 58,
+        "fields": {
+            "title": "Graph Valid Tree",
+            "description": "You have a graph of n nodes labeled from 0 to n - 1. You are given an integer n and a list of edges where edges[i] = [ai, bi] indicates that there is an undirected edge between nodes ai and bi in the graph.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/graph-valid-tree/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 59,
+        "fields": {
+            "title": "Number of Connected Components in an Undirected Graph",
+            "description": "You have a graph of n nodes. You are given an integer n and an array edges where edges[i] = [ai, bi] indicates that there is an edge between ai and bi in the graph.",
+            "category": "Graph",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 60,
+        "fields": {
+            "title": "Reconstruct Itinerary",
+            "description": "You are given a list of airline tickets where tickets[i] = [fromi, toi] represent the departure and arrival airports of one flight. Reconstruct the itinerary in order and return it.",
+            "category": "Graph",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/reconstruct-itinerary/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 61,
+        "fields": {
+            "title": "Valid Parentheses",
+            "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+            "category": "Stack",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/valid-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 62,
+        "fields": {
+            "title": "Generate Parentheses",
+            "description": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+            "category": "Stack",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/generate-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 63,
+        "fields": {
+            "title": "Daily Temperatures",
+            "description": "Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days you have to wait after the ith day to get a warmer temperature.",
+            "category": "Stack",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/daily-temperatures/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 64,
+        "fields": {
+            "title": "Car Fleet",
+            "description": "There are n cars going to the same destination along a one-lane road. The destination is target miles away.",
+            "category": "Stack",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/car-fleet/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 65,
+        "fields": {
+            "title": "Largest Rectangle in Histogram",
+            "description": "Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.",
+            "category": "Stack",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 66,
+        "fields": {
+            "title": "Binary Tree Inorder Traversal",
+            "description": "Given the root of a binary tree, return the inorder traversal of its nodes' values.",
+            "category": "Tree",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 67,
+        "fields": {
+            "title": "Binary Tree Level Order Traversal",
+            "description": "Given the root of a binary tree, return the level order traversal of its nodes' values.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 68,
+        "fields": {
+            "title": "Binary Tree Right Side View",
+            "description": "Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/binary-tree-right-side-view/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 69,
+        "fields": {
+            "title": "Count Good Nodes in Binary Tree",
+            "description": "Given a binary tree root, a node X in the tree is named good if in the path from root to X there are no nodes with a value greater than X.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 70,
+        "fields": {
+            "title": "Validate Binary Search Tree",
+            "description": "Given the root of a binary tree, determine if it is a valid binary search tree (BST).",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/validate-binary-search-tree/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 71,
+        "fields": {
+            "title": "Kth Smallest Element in a BST",
+            "description": "Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 72,
+        "fields": {
+            "title": "Lowest Common Ancestor of a BST",
+            "description": "Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 73,
+        "fields": {
+            "title": "Implement Trie (Prefix Tree)",
+            "description": "A trie (pronounced as 'try') or prefix tree is a tree data structure used to efficiently store and retrieve keys in a dataset of strings.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 74,
+        "fields": {
+            "title": "Add and Search Word",
+            "description": "Design a data structure that supports adding new words and finding if a string matches any previously added string.",
+            "category": "Tree",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/add-and-search-word-data-structure-design/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 75,
+        "fields": {
+            "title": "Word Search II",
+            "description": "Given an m x n board of characters and a list of strings words, return all words on the board.",
+            "category": "Tree",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/word-search-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 76,
+        "fields": {
+            "title": "Merge K Sorted Lists",
+            "description": "You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.",
+            "category": "Linked List",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 77,
+        "fields": {
+            "title": "Reverse Nodes in k-Group",
+            "description": "Given a linked list, reverse the nodes of a linked list k at a time and return its modified list.",
+            "category": "Linked List",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 78,
+        "fields": {
+            "title": "Reverse Linked List",
+            "description": "Given the head of a singly linked list, reverse the list, and return the reversed list.",
+            "category": "Linked List",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/reverse-linked-list/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 79,
+        "fields": {
+            "title": "Detect Cycle in a Linked List",
+            "description": "Given a linked list, return the node where the cycle begins. If there is no cycle, return null.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/linked-list-cycle-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 80,
+        "fields": {
+            "title": "Copy List with Random Pointer",
+            "description": "A linked list of length n is given such that each node contains an additional random pointer which could point to any node in the list, or null.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 81,
+        "fields": {
+            "title": "LRU Cache",
+            "description": "Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: get and put.",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/lru-cache/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 82,
+        "fields": {
+            "title": "Min Stack",
+            "description": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.",
+            "category": "Design",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/min-stack/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 83,
+        "fields": {
+            "title": "LFU Cache",
+            "description": "Design and implement a data structure for Least Frequently Used (LFU) cache.",
+            "category": "Design",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/lfu-cache/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 84,
+        "fields": {
+            "title": "Design Circular Deque",
+            "description": "Design your implementation of the circular double-ended queue (deque).",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/design-circular-deque/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 85,
+        "fields": {
+            "title": "Design HashMap",
+            "description": "Design a HashMap without using any built-in hash table libraries.",
+            "category": "Design",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/design-hashmap/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 86,
+        "fields": {
+            "title": "Design HashSet",
+            "description": "Design a HashSet without using any built-in hash table libraries.",
+            "category": "Design",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/design-hashset/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 87,
+        "fields": {
+            "title": "Add Two Numbers",
+            "description": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/add-two-numbers/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 88,
+        "fields": {
+            "title": "Merge Two Sorted Lists",
+            "description": "Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.",
+            "category": "Linked List",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 89,
+        "fields": {
+            "title": "Remove Nth Node From End of List",
+            "description": "Given the head of a linked list, remove the nth node from the end of the list and return its head.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 90,
+        "fields": {
+            "title": "Swap Nodes in Pairs",
+            "description": "Given a linked list, swap every two adjacent nodes and return its head.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 91,
+        "fields": {
+            "title": "Reverse Linked List II",
+            "description": "Reverse a linked list from position m to n. Do it in one-pass.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/reverse-linked-list-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 92,
+        "fields": {
+            "title": "Intersection of Two Linked Lists",
+            "description": "Write a program to find the node at which the intersection of two singly linked lists begins.",
+            "category": "Linked List",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 93,
+        "fields": {
+            "title": "Linked List Cycle",
+            "description": "Given head, the head of a linked list, determine if the linked list has a cycle in it.",
+            "category": "Linked List",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/linked-list-cycle/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 94,
+        "fields": {
+            "title": "Linked List Cycle II",
+            "description": "Given a linked list, return the node where the cycle begins. If there is no cycle, return null.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/linked-list-cycle-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 95,
+        "fields": {
+            "title": "Reverse Linked List III",
+            "description": "Reverse a linked list from position m to n. Do it in one-pass.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/reverse-linked-list-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 96,
+        "fields": {
+            "title": "Design Circular Queue",
+            "description": "Design your implementation of the circular queue. The circular queue is a linear data structure in which the operations are performed based on FIFO (First In First Out) principle and the last position is connected back to the first position to make a circle.",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/design-circular-queue/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 97,
+        "fields": {
+            "title": "Design Browser History",
+            "description": "You have a browser of one tab where you start on the homepage and you can visit another url, get back in the history, and forward in the history.",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/design-browser-history/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 98,
+        "fields": {
+            "title": "Insert Delete GetRandom O(1)",
+            "description": "Design a data structure that supports all following operations in average O(1) time.",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/insert-delete-getrandom-o1/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 99,
+        "fields": {
+            "title": "Maximum Product Subarray",
+            "description": "Given an integer array nums, find a contiguous non-empty subarray within the array that has the largest product, and return the product.",
+            "category": "Array & Hashing",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/maximum-product-subarray/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 100,
+        "fields": {
+            "title": "Find Minimum in Rotated Sorted Array",
+            "description": "Suppose an array of length n sorted in ascending order is rotated between 1 and n times. Return the minimum element of this array.",
+            "category": "Array & Hashing",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 101,
+        "fields": {
+            "title": "Search in Rotated Sorted Array II",
+            "description": "Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. You are given a target value to search. If found in the array return true, otherwise return false.",
+            "category": "Array & Hashing",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 102,
+        "fields": {
+            "title": "Unique Paths",
+            "description": "A robot is located at the top-left corner of a m x n grid. The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/unique-paths/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 103,
+        "fields": {
+            "title": "House Robber",
+            "description": "You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and it will automatically contact the police if two adjacent houses were broken into on the same night.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/house-robber/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 104,
+        "fields": {
+            "title": "Coin Change",
+            "description": "You are given coins of different denominations and a total amount of money amount. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/coin-change/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 105,
+        "fields": {
+            "title": "Longest Increasing Subsequence",
+            "description": "Given an integer array nums, return the length of the longest strictly increasing subsequence.",
+            "category": "Dynamic Programming",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 106,
+        "fields": {
+            "title": "Maximum Subarray",
+            "description": "Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.",
+            "category": "Dynamic Programming",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/maximum-subarray/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 107,
+        "fields": {
+            "title": "Best Time to Buy and Sell Stock",
+            "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.",
+            "category": "Dynamic Programming",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 108,
+        "fields": {
+            "title": "Best Time to Buy and Sell Stock II",
+            "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day. Find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).",
+            "category": "Dynamic Programming",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 109,
+        "fields": {
+            "title": "Best Time to Buy and Sell Stock III",
+            "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day. Find the maximum profit you can achieve. You may complete at most two transactions.",
+            "category": "Dynamic Programming",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 110,
+        "fields": {
+            "title": "Best Time to Buy and Sell Stock IV",
+            "description": "You are given an integer array prices where prices[i] is the price of a given stock on the ith day, and an integer k. Find the maximum profit you can achieve. You may complete at most k transactions.",
+            "category": "Dynamic Programming",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 111,
+        "fields": {
+            "title": "Regular Expression Matching",
+            "description": "Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where: \n'.' Matches any single character. \n'*' Matches zero or more of the preceding element.",
+            "category": "String",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/regular-expression-matching/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 112,
+        "fields": {
+            "title": "Wildcard Matching",
+            "description": "Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*' where: \n'?' Matches any single character. \n'*' Matches any sequence of characters (including the empty sequence).",
+            "category": "String",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/wildcard-matching/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 113,
+        "fields": {
+            "title": "Longest Palindromic Substring",
+            "description": "Given a string s, return the longest palindromic substring in s.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 114,
+        "fields": {
+            "title": "Integer to Roman",
+            "description": "Given an integer, convert it to a roman numeral.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/integer-to-roman/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 115,
+        "fields": {
+            "title": "Roman to Integer",
+            "description": "Given a roman numeral, convert it to an integer.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/roman-to-integer/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 116,
+        "fields": {
+            "title": "Valid Palindrome",
+            "description": "Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/valid-palindrome/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 117,
+        "fields": {
+            "title": "Longest Common Prefix",
+            "description": "Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string ''.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/longest-common-prefix/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 118,
+        "fields": {
+            "title": "Substring with Concatenation of All Words",
+            "description": "You are given a string s and an array of strings words of the same length. Return all starting indices of substring(s) in s that is a concatenation of each word in words exactly once, in any order, and without any intervening characters.",
+            "category": "String",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 119,
+        "fields": {
+            "title": "Implement strStr()",
+            "description": "Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/implement-strstr/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 120,
+        "fields": {
+            "title": "Multiply Strings",
+            "description": "Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/multiply-strings/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 121,
+        "fields": {
+            "title": "ZigZag Conversion",
+            "description": "The string \"PAYPALISHIRING\" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility) \nP   A   H   N \nA P L S I I G \nY   I   R \nAnd then read line by line: \"PAHNAPLSIIGYIR\". Write the code that will take a string and make this conversion given a number of rows.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/zigzag-conversion/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 122,
+        "fields": {
+            "title": "Valid Parentheses",
+            "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/valid-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 123,
+        "fields": {
+            "title": "Generate Parentheses",
+            "description": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/generate-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 124,
+        "fields": {
+            "title": "Longest Valid Parentheses",
+            "description": "Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.",
+            "category": "String",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 125,
+        "fields": {
+            "title": "Count and Say",
+            "description": "The count-and-say sequence is a sequence of digit strings defined by the recursive formula: \n- countAndSay(1) = \"1\" \n- countAndSay(n) is the way you would \"say\" the digit string from countAndSay(n-1), which is then converted into a different digit string.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/count-and-say/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 126,
+        "fields": {
+            "title": "Decode Ways",
+            "description": "A message containing letters from A-Z can be encoded into numbers using the following mapping: \n'A' -> \"1\" \n'B' -> \"2\" \n... \n'Z' -> \"26\" \nTo decode an encoded message, all the digits must be grouped then mapped back into letters using the reverse of the mapping above (there may be multiple ways).",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/decode-ways/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 127,
+        "fields": {
+            "title": "Letter Combinations of a Phone Number",
+            "description": "Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 128,
+        "fields": {
+            "title": "Substring with Concatenation of All Words",
+            "description": "You are given a string s and an array of strings words of the same length. Return all starting indices of substring(s) in s that is a concatenation of each word in words exactly once, in any order, and without any intervening characters.",
+            "category": "String",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 129,
+        "fields": {
+            "title": "Implement strStr()",
+            "description": "Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/implement-strstr/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 130,
+        "fields": {
+            "title": "Multiply Strings",
+            "description": "Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/multiply-strings/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 131,
+        "fields": {
+            "title": "ZigZag Conversion",
+            "description": "The string \"PAYPALISHIRING\" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility) \nP   A   H   N \nA P L S I I G \nY   I   R \nAnd then read line by line: \"PAHNAPLSIIGYIR\". Write the code that will take a string and make this conversion given a number of rows.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/zigzag-conversion/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 132,
+        "fields": {
+            "title": "Valid Parentheses",
+            "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/valid-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 133,
+        "fields": {
+            "title": "Generate Parentheses",
+            "description": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/generate-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 134,
+        "fields": {
+            "title": "Longest Valid Parentheses",
+            "description": "Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.",
+            "category": "String",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/longest-valid-parentheses/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 135,
+        "fields": {
+            "title": "Count and Say",
+            "description": "The count-and-say sequence is a sequence of digit strings defined by the recursive formula: \n- countAndSay(1) = \"1\" \n- countAndSay(n) is the way you would \"say\" the digit string from countAndSay(n-1), which is then converted into a different digit string.",
+            "category": "String",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/count-and-say/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 136,
+        "fields": {
+            "title": "Decode Ways",
+            "description": "A message containing letters from A-Z can be encoded into numbers using the following mapping: \n'A' -> \"1\" \n'B' -> \"2\" \n... \n'Z' -> \"26\" \nTo decode an encoded message, all the digits must be grouped then mapped back into letters using the reverse of the mapping above (there may be multiple ways).",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/decode-ways/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 137,
+        "fields": {
+            "title": "Letter Combinations of a Phone Number",
+            "description": "Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.",
+            "category": "String",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 138,
+        "fields": {
+            "title": "3Sum",
+            "description": "Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.",
+            "category": "Array & Hashing",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/3sum/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 139,
+        "fields": {
+            "title": "3Sum Closest",
+            "description": "Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.",
+            "category": "Array & Hashing",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/3sum-closest/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 140,
+        "fields": {
+            "title": "4Sum",
+            "description": "Given an array nums of n integers and an integer target, return all unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that: \n0 <= a, b, c, d < n \na, b, c, and d are distinct. \nnums[a] + nums[b] + nums[c] + nums[d] == target",
+            "category": "Array & Hashing",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/4sum/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 141,
+        "fields": {
+            "title": "Add Two Numbers",
+            "description": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/add-two-numbers/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 142,
+        "fields": {
+            "title": "Merge Two Sorted Lists",
+            "description": "Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.",
+            "category": "Linked List",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 143,
+        "fields": {
+            "title": "Merge k Sorted Lists",
+            "description": "You are given an array of k linked-lists lists, each linked-list is sorted in ascending order. Merge all the linked-lists into one sorted linked-list and return it.",
+            "category": "Linked List",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 144,
+        "fields": {
+            "title": "Swap Nodes in Pairs",
+            "description": "Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)",
+            "category": "Linked List",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 145,
+        "fields": {
+            "title": "Reverse Nodes in k-Group",
+            "description": "Given a linked list, reverse the nodes of a linked list k at a time and return its modified list. k is a positive integer that is less than or equal to the length of the linked list. If the number of nodes is not a multiple of k, then left-out nodes, in the end, should remain as it is.",
+            "category": "Linked List",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 146,
+        "fields": {
+            "title": "LRU Cache",
+            "description": "Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: get and put.",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/lru-cache/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 147,
+        "fields": {
+            "title": "LFU Cache",
+            "description": "Design and implement a data structure for Least Frequently Used (LFU) cache. It should support the following operations: get and put.",
+            "category": "Design",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/lfu-cache/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 148,
+        "fields": {
+            "title": "Min Stack",
+            "description": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.",
+            "category": "Design",
+            "difficulty": "Easy",
+            "link": "https://leetcode.com/problems/min-stack/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 149,
+        "fields": {
+            "title": "LRU Cache",
+            "description": "Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: get and put.",
+            "category": "Design",
+            "difficulty": "Medium",
+            "link": "https://leetcode.com/problems/lru-cache/"
+        }
+    },
+    {
+        "model": "problems.problem",
+        "pk": 150,
+        "fields": {
+            "title": "LFU Cache",
+            "description": "Design and implement a data structure for Least Frequently Used (LFU) cache. It should support the following operations: get and put.",
+            "category": "Design",
+            "difficulty": "Hard",
+            "link": "https://leetcode.com/problems/lfu-cache/"
+        }
+    }
+]
+
+
+
